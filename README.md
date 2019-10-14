@@ -1,0 +1,2 @@
+# RUSSIANCOIN
+wallet
